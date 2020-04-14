@@ -1,6 +1,7 @@
-#Projet 4 -  ANALYSEZ LES BESOINS DE VOTRE CLIENT POUR SON GROUPE DE PIZZERIAS
+# Projet 4 -  ANALYSEZ LES BESOINS DE VOTRE CLIENT POUR SON GROUPE DE PIZZERIAS  
 
-
+ 
+--
 ## Table des matières  
 
 [Objet du document](##Objet du document)  
