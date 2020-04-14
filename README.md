@@ -2,6 +2,7 @@
 
 
 ## Table des matières  
+
 [Objet du document](##Objet du document)  
 [Contexte](##Contexte)  
 [Objectifs](##Objectifs)  
@@ -9,7 +10,7 @@
 [Les acteurs](###Les différents acteurs)  
 [Les domaines fonctionnels](###Les domaines fonctionnels)  
 [Les cas d'utilisation généraux](###Les cas d'utilisation généraux)  
-[Les cas d'utilisation détaillés](###Les cas d'utilisation détaillés)   
+[Les cas d'utilisation détaillés](###Les cas d'utilisation détaillés)  
 [Le cycle de vie d'une commande](###Le cycle de vie d'une commande)  
 [La solution fonctionnelle et technique](##La solution fonctionnelle et technique)  
 [Version](#Version)  
