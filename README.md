@@ -10,8 +10,8 @@
 [Les_spécialisations_fonctionnelles](#Les_spécialisations_fonctionnelles)  
 [Les_différents_acteurs](#Les_différents_acteurs)  
 [Les_domaines_fonctionnels](#Les_domaines_fonctionnels)  
-[Les_cas_d'utilisation_généraux](#Les_cas_d'utilisation_généraux)  
-[Les_cas_d'utilisation_détaillés](#Les_cas_d'utilisation_détaillés)  
+[Les_fonctionnalités_générales](#Les_fonctionnalités_générales)  
+[Les_fonctionnalités_détaillées](#Les_fonctionnalités_détaillées)  
 [Le_cycle_de_vie_d'une_commande](#Le_cycle_de_vie_d'une_commande)  
 [La_solution_fonctionnelle_et_technique](#La_solution_fonctionnelle_et_technique)  
 [Version](#Version)  
@@ -121,7 +121,7 @@ L'application se découpe en deux domaines fonctionnels :
 Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
-### Les cas_d'utilisation_généraux  
+### Les_fonctionnalités_générales  
 Les fonctionnalités du domaine fonctionnel - Font Office :      
 
     - La consultayion du catalogue
@@ -139,7 +139,7 @@ Les fonctionnalités du domaine fonctionnel - Back Office :
 Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
-### Les cas_d'utilisation_détaillés  
+### Les_fonctionnalités_détaillées  
 Ci-dessous, la liste des fonctionnalités principales :  
 
     - Consulter catalogue
@@ -177,7 +177,7 @@ Ci-dessous, la liste des fonctionnalités internes :
 Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
-### Le cycle_de_vie_d'une_commande  
+### Le_cycle_de_vie_d'une_commande  
 Ci-dessous, le fil d'exécution du système vis-à-vis de la gestion d'une commande. Il reprend dans ce fil d'éxuction,  
 le rôle des fonctionnalités détaillées qui sont identifiées dans les deux domaines fonctionnels :
 
@@ -196,7 +196,7 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
 Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
-# La solution_fonctionnelle_et_technique
+# La_solution_fonctionnelle_et_technique
 
     Rédaction en cours ...
  
