@@ -1,23 +1,36 @@
 # Projet 4 -  ANALYSEZ LES BESOINS DE VOTRE CLIENT POUR SON GROUPE DE PIZZERIAS  
-
  
 --
-## Table des matières  
+# Table des matières
 
-[Objet du document](##Objet du document)  
-[Contexte](##Contexte)  
-[Objectifs](##Objectifs)  
-[Les spécialisations fonctionnelles](##Les spécialisations fonctionnelles)  
-[Les acteurs](###Les différents acteurs)  
-[Les domaines fonctionnels](###Les domaines fonctionnels)  
-[Les cas d'utilisation généraux](###Les cas d'utilisation généraux)  
-[Les cas d'utilisation détaillés](###Les cas d'utilisation détaillés)  
-[Le cycle de vie d'une commande](###Le cycle de vie d'une commande)  
-[La solution fonctionnelle et technique](##La solution fonctionnelle et technique)  
+[Contexte_fictif](#Contexte_fictif)  
+[Objet_du_document](#Objet_du_document)  
+[Contexte](#Contexte)  
+[Objectifs](#Objectifs)  
+[Les_spécialisations_fonctionnelles](#Les_spécialisations_fonctionnelles)  
+[Les_différents_acteurs](#Les_différents_acteurs)  
+[Les_domaines_fonctionnels](#Les_domaines_fonctionnels)  
+[Les_cas_d'utilisation_généraux](#Les_cas_d'utilisation_généraux)  
+[Les_cas_d'utilisation_détaillés](#Les_cas_d'utilisation_détaillés)  
+[Le_cycle_de_vie_d'une_commande](#Le_cycle_de_vie_d'une_commande)  
+[La_solution_fonctionnelle_et_technique](#La_solution_fonctionnelle_et_technique)  
 [Version](#Version)  
  
 --
-## Objet du document  
+# Contexte_fictif  
+    Vous travaillez chez « IT Consulting & Development ».  
+    C’est une petite entreprise d’une vingtaine d’employés  
+    capable de mener des projets informatiques de développement logiciel/mobile/web.  
+    Vous êtes un développeur d'application junior et, récemment,  
+    vous vous êtes également outillé pour mener l’analyse des besoins client  
+    lors des lancements de projets  
+ 
+--
+# Objet_du_document  
+Le présent document constitue le dossier de conception fonctionnelle de l'application OC PIZZA  
+Il reprend l’ensemble des documents décrivant le comportement des organes,  
+fonctionnalités et sous-fonctions de la solution cible,  
+en respectant les besoins exprimés par notre client, OC Pizza.  
  
 --
 ## Contexte  
@@ -31,7 +44,7 @@ Le secteur
     (ventes à la part, pizzas à partager, mini-pizzas, etc.),  
     et de la façon de présenter l'offre avec notamment de plus en plus de recettes personnalisables.  
     L'ajout de services comme la livraison à domicile ou au bureau n'est pas en reste.  
-[Source : toutelafranchise](toutelafranchise.com)  
+[Source : toutelafranchise](https://www.toute-la-franchise.com)  
 
 L'entreprise
 
@@ -42,7 +55,6 @@ L'entreprise
     car il ne permet pas une gestion centralisée de toutes les pizzerias.  
     De plus, il est très difficile pour les responsables de suivre ce qui se passe dans les points de ventes.  
     Enfin, les livreurs ne peuvent pas indiquer « en live » que la livraison est effectuée.  
-
  
 --
 ## Objectifs  
@@ -59,10 +71,17 @@ Cette solution devra être livrable pour l’ouverture des trois nouvelles pizze
     et la supervision des données relative à chaque point de vente.  
  
 --
-## Les spécialisations fonctionnelles  
+# Les_spécialisations_fonctionnelles
+Dans cette partie, les éléments suivants seront présentés et détaillés :  
+    
+    -	L’analyse des besoins du client
+    -	La description générale de la solution
+    -	Le domaine fonctionnel
+    -	Le flux fonctionnel
+    -	Les cas d’utilisations
  
 --
-### Les différents acteurs  
+### Les_différents_acteurs  
 Le consommateur est une estimation générale. Il peut être un des utilisateurs suivants :  
 
     - le visiteur
@@ -81,14 +100,14 @@ pour le réglement des commandes en ligne.
     - Le système bancaire
  
 --
-### Les domaines fonctionnels  
+### Les_domaines_fonctionnels  
 L'application se découpe en deux domaines fonctionnels :  
     
     - Le Front Office  
     - Le Back Office  
  
 --
-### Les cas d'utilisation généraux  
+### Les cas_d'utilisation_généraux  
 Les fonctionnalités du domaine fonctionnel - Font Office :      
 
     - La consultayion du catalogue
@@ -102,10 +121,9 @@ Les fonctionnalités du domaine fonctionnel - Back Office :
     - L'inspection des matières premières
     - L'inspection des commandes
     - La gestion des commandes
-
  
 --
-### Les cas d'utilisation détaillés  
+### Les cas_d'utilisation_détaillés  
 Ci-dessous, la liste des fonctionnalités principales :  
 
     - Consulter catalogue
@@ -141,9 +159,7 @@ Ci-dessous, la liste des fonctionnalités internes :
     - Consulter le stock d'ingrédients
  
 --
-
-
-### Le cycle de vie d'une commande  
+### Le cycle_de_vie_d'une_commande  
 Ci-dessous, le fil d'exécution du système vis-à-vis de la gestion d'une commande. Il reprend dans ce fil d'éxuction,  
 le rôle des fonctionnalités détaillées qui sont identifiées dans les deux domaines fonctionnels :
 
@@ -158,10 +174,9 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
     9. Indiquer commande prête
     10. Indiquer la prise en charge de la commande
     11. Indiquer la livraison de la commande
-
  
 --
-## La solution fonctionnelle et technique  
+# La solution_fonctionnelle_et_technique
 
     Rédaction en cours ...
  
