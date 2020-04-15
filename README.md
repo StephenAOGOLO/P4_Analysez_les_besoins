@@ -182,6 +182,6 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
  
 --
 # Version
-    1.0
+    1.1
  
 --
