@@ -1,7 +1,7 @@
 # Projet 4 -  ANALYSEZ LES BESOINS DE VOTRE CLIENT POUR SON GROUPE DE PIZZERIAS  
  
 --
-# Table des matières
+# Table_des_matières  
 
 [Contexte_fictif](#Contexte_fictif)  
 [Objet_du_document](#Objet_du_document)  
@@ -24,6 +24,8 @@
     Vous êtes un développeur d'application junior et, récemment,  
     vous vous êtes également outillé pour mener l’analyse des besoins client  
     lors des lancements de projets  
+
+Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
 # Objet_du_document  
@@ -31,7 +33,9 @@ Le présent document constitue le dossier de conception fonctionnelle de l'appli
 Il reprend l’ensemble des documents décrivant le comportement des organes,  
 fonctionnalités et sous-fonctions de la solution cible,  
 en respectant les besoins exprimés par notre client, OC Pizza.  
- 
+
+Retour à la [Table_des_matières](#Table_des_matières)  
+  
 --
 ## Contexte  
 Le secteur
@@ -55,7 +59,9 @@ L'entreprise
     car il ne permet pas une gestion centralisée de toutes les pizzerias.  
     De plus, il est très difficile pour les responsables de suivre ce qui se passe dans les points de ventes.  
     Enfin, les livreurs ne peuvent pas indiquer « en live » que la livraison est effectuée.  
- 
+
+Retour à la [Table_des_matières](#Table_des_matières)  
+  
 --
 ## Objectifs  
 L’objectif du projet est de proposer à OC Pizza un outil informatique réalisant les fonctions suivantes : 
@@ -70,6 +76,8 @@ Cette solution devra être livrable pour l’ouverture des trois nouvelles pizze
     une gestionnaire centralisée, pour le suivi des commandes en temps réel
     et la supervision des données relative à chaque point de vente.  
  
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
 --
 # Les_spécialisations_fonctionnelles
 Dans cette partie, les éléments suivants seront présentés et détaillés :  
@@ -79,6 +87,8 @@ Dans cette partie, les éléments suivants seront présentés et détaillés :
     -	Le domaine fonctionnel
     -	Le flux fonctionnel
     -	Les cas d’utilisations
+ 
+Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
 ### Les_différents_acteurs  
@@ -99,12 +109,16 @@ pour le réglement des commandes en ligne.
 
     - Le système bancaire
  
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
 --
 ### Les_domaines_fonctionnels  
 L'application se découpe en deux domaines fonctionnels :  
     
     - Le Front Office  
     - Le Back Office  
+ 
+Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
 ### Les cas_d'utilisation_généraux  
@@ -121,6 +135,8 @@ Les fonctionnalités du domaine fonctionnel - Back Office :
     - L'inspection des matières premières
     - L'inspection des commandes
     - La gestion des commandes
+ 
+Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
 ### Les cas_d'utilisation_détaillés  
@@ -158,6 +174,8 @@ Ci-dessous, la liste des fonctionnalités internes :
     - Consulter les recettes de pizzas
     - Consulter le stock d'ingrédients
  
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
 --
 ### Le cycle_de_vie_d'une_commande  
 Ci-dessous, le fil d'exécution du système vis-à-vis de la gestion d'une commande. Il reprend dans ce fil d'éxuction,  
@@ -175,13 +193,19 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
     10. Indiquer la prise en charge de la commande
     11. Indiquer la livraison de la commande
  
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
 --
 # La solution_fonctionnelle_et_technique
 
     Rédaction en cours ...
  
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
 --
 # Version
     1.2
+ 
+Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
