@@ -48,7 +48,7 @@ Le secteur
     (ventes à la part, pizzas à partager, mini-pizzas, etc.),  
     et de la façon de présenter l'offre avec notamment de plus en plus de recettes personnalisables.  
     L'ajout de services comme la livraison à domicile ou au bureau n'est pas en reste.  
-[Source : toutelafranchise](https://www.toute-la-franchise.com)  
+[Source : toutelafranchise](https://www.toute-la-franchise.com/vie-de-la-franchise-A31771-ouvrir-pizzeria-2019.html)  
 
 L'entreprise
 
