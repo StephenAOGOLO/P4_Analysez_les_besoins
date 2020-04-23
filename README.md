@@ -104,10 +104,13 @@ Concernant le personnel de l'entreprise, trois acteurs ont été identifiés :
     - Le pizzaiolo
     - Le livreur.
 
-Une entité supplémentaire est identifée, un système bancaire, permettant l'exécution de transactions bancaires  
-pour le réglement des commandes en ligne.
+Deux entités supplémentaires sont identifées. D'une part, un système bancaire,  
+permettant l'exécution de transactions bancaires  
+pour le réglement des commandes en ligne. D'autre part, un système d’authentification externe  
+lié à un réseau social.  
 
     - Le système bancaire
+    - Le système d'authentifiaction externe
  
 Retour à la [Table_des_matières](#Table_des_matières)  
  
@@ -149,16 +152,13 @@ Ci-dessous, la liste des fonctionnalités principales :
     - Créer un compte
     - Consulter l'historique
     - Obtenir une promotion
-    - Indiquer la prise en charge de commande
-    - Indiquer la préparation de la commande
-    - Indiquer commande prête
+    - Modifier statut commande
     - Consulter les pizzas réalisables
     - Consulter les commandes à réaliser
-    - Indiquer la prise en charge de la commande
-    - Indiquer la livraison de la commande
     - Suivre le statut de la commande
     - Modifier le stock d'ingrédients
     - Modifier les recettes de pizzas
+    - Gestion utilisateurs
 
 Ci-dessous, la liste des fonctionnalités internes : 
 
@@ -166,11 +166,12 @@ Ci-dessous, la liste des fonctionnalités internes :
     - Constituer panier
     - Obtenir récapitulatif
     - Payer une commande
-    - Sélectionner une pizza disponible
     - Consulter une commande
     - Payer en ligne
     - Payer à la livraison
     - S'authentifier
+    - Authentification interne
+    - Authentification externe
     - Consulter les recettes de pizzas
     - Consulter le stock d'ingrédients
  
@@ -187,12 +188,7 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
     4. Payer une commande
     5. Obtenir récapitulatif
     6. Consulter les commandes à réaliser
-    7. Indiquer la prise en charge de la commande
-    8. Indiquer la préparation de la commande
-    9. Indiquer commande prête
-    10. Indiquer la prise en charge de la commande
-    11. Indiquer la livraison de la commande
-
+    7. Modifier statut commande
  
 Retour à la [Table_des_matières](#Table_des_matières)  
  
@@ -204,8 +200,27 @@ Retour à la [Table_des_matières](#Table_des_matières)
 Retour à la [Table_des_matières](#Table_des_matières)  
  
 --
+# Sources  
+L'ensemble des choix technologiques de la solution technique,  
+a été basée sur des recherches et des études de marchés réalisés entre 2017 et 2019.
+Ces sources sont fiables et permettent un choix mesuré, actuel et compétitif,  
+en termes de technologie. Ci-dessous, quelques sites et articles :  
+- lafabriquedunet.fr : [Les hébergements WEB](https://www.lafabriquedunet.fr/blog/comparatif-hebergement-web/#h2_1)   
+- hostinger.fr : [Hostinger / Les meilleurs CMS](https://www.hostinger.fr/tutoriels/meilleurs-cms)
+- lws.fr : [LWS / Les meilleurs CMS](https://blog.lws-hosting.com/creation-de-sites-web/top-5-meilleurs-systemes-de-gestion-de-contenus-2017)
+- ovh.com : [OVH / Les meilleurs CMS](https://www.ovh.com/fr/hebergement-web/site/comparatif-cms/)
+- lafabriquedunet.fr : [Les solutions paiement en ligne](https://www.lafabriquedunet.fr/blog/comparatif-meilleures-solutions-paiement-en-ligne/)  
+- codeur.com : [Les solutions paiement en ligne](https://www.codeur.com/blog/solutions-paiement-en-ligne-ecommerce/)  
+- stripe.com : [API Stripe](https://stripe.com/docs/api)
+- hipay.com : [API Hipay](https://developer.hipay.com/api-explorer/api-online-payments)  
+- paypal.com : [API Paypal](https://developer.paypal.com/docs/api/overview/)  
+- google.com : [API Google Sign-in](https://developers.google.com/identity/sign-in/web/sign-in)  
+- facebook.com : [API Facebook login](https://developers.facebook.com/docs/facebook-login/web)
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
+--
 # Version
-    1.2
+    1.3
  
 Retour à la [Table_des_matières](#Table_des_matières)  
  
