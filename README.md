@@ -192,6 +192,7 @@ le rôle des fonctionnalités détaillées qui sont identifiées dans les deux d
     9. Indiquer commande prête
     10. Indiquer la prise en charge de la commande
     11. Indiquer la livraison de la commande
+
  
 Retour à la [Table_des_matières](#Table_des_matières)  
  
