@@ -14,6 +14,7 @@
 [Les_fonctionnalités_détaillées](#Les_fonctionnalités_détaillées)  
 [Le_cycle_de_vie_d'une_commande](#Le_cycle_de_vie_d'une_commande)  
 [La_solution_fonctionnelle_et_technique](#La_solution_fonctionnelle_et_technique)  
+[GitHub](#GitHub)  
 [Version](#Version)  
  
 --
@@ -221,6 +222,14 @@ Retour à la [Table_des_matières](#Table_des_matières)
 --
 # Version
     1.4
+ 
+Retour à la [Table_des_matières](#Table_des_matières)  
+ 
+--
+# GitHub
+L'ensemble des documents du projet sont disponible sur GITHUB :
+
+[Projet_4](https://github.com/StephenAOGOLO/P4_Analysez_les_besoins.git)
  
 Retour à la [Table_des_matières](#Table_des_matières)  
  
